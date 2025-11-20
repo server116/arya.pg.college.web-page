@@ -110,7 +110,7 @@ color: white;
 form label {
 font-weight: bold;
 color: white;
-text-decoration: underline;
+text-decoration:underline;
 }
 input, select, textarea {
 width: 98%;
