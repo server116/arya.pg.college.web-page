@@ -107,9 +107,10 @@ box-shadow: 1 1 12px rgb(249, 249, 251);
 h2 {
 color: white;
 }
-label {
+form label {
 font-weight: bold;
 color: white;
+text-decoration: underline;
 }
 input, select, textarea {
 width: 98%;
